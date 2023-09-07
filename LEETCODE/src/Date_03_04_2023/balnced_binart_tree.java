@@ -23,11 +23,11 @@ public class balnced_binart_tree {
     }
     public class buildtree{
         int index=-1;
-        public  bt(int[] nodes){
-            index++;
-            TreeNode root=new TreeNode(nodes[index]);
-            TreeNode root.left=bt();
-        }
+//        public  bt(int[] nodes){
+//            index++;
+//            TreeNode root=new TreeNode(nodes[index]);
+////            TreeNode root.left=bt();
+//        }
     }
     public static void main(String[] args) {
 

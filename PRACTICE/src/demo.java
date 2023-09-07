@@ -1,8 +1,11 @@
 import java.util.Arrays;
+import java.util.HashSet;
+import java.util.List;
 
 public class demo {
     public static void main(String[] args) {
-        int[] arr={1,2,3,4};
-//        Arrays.sort(arr);
+        String[] strs={"eat","tea","tan","ate","nat","bat"};
+//        System.out.println(GroupAnagram(strs));
     }
+
 }

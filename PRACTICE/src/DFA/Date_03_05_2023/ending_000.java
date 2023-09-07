@@ -6,6 +6,7 @@ public class ending_000 {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         String var=input.next();
+        int[] arr={};
         char state='A';
         for (int i = 0; i < arr.length; i++) {
             switch (state){
