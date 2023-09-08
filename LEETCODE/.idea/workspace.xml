@@ -5,56 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc7c1c7f-a759-4b85-9654-df9412a44eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Date_03_09_2023/LinkedListCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_06_10_2023/GreatestNumberofCandies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_06_10_2023/MergeStringsAlternately.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_06_10_2023/ReverseWordsInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_07_11_2023/Minimum_Bit_Flips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_07_11_2023/one_bit_two_bit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_07_13_2023/Top_K_Frequent_Elements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_07_13_2023/product_self.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_07_14_2023/Three_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_07_14_2023/sorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_07_14_2023/valid_palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_07_15_2023/two_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_07_16_2023/rotated_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_07_17_2023/Jump_Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_07_17_2023/Reverse_integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_07_17_2023/plus_one.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_07_20_2023/Is_palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_07_27_2023/Move_zeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_08_19_2023/MyPow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_08_29_2023/Min_Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_08_29_2023/Reverse_Polish_Notation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_08_29_2023/valid_parenthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_08_30_2023/Daily_Temperatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_08_30_2023/Three_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_08_30_2023/Two_Sum_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_08_31_2023/K_frequent_elements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_08_31_2023/Longest_Consecutive_Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_08_31_2023/Rotated_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_02_2023/LL_mergesorter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_04_2023/Temparatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_05_2023/Longest_consecutive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_05_2023/Prefix_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_05_2023/Top_K_Frequent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_06_2023/Frequent_K_items.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_06_2023/HappyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_06_2023/K_frequent_elements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_06_2023/Plus_One.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_06_2023/Three_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_07_2023/Add_Two_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_07_2023/Duplicate_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_07_2023/Merge_k_Sorted_Lists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_07_2023/Reorder_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_08_2023/REorder_list.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_25_2023/Add_two_numbers$Linklist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_25_2023/Add_two_numbers$Linklist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_25_2023/Add_two_numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_25_2023/Add_two_numbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_03_04_2023/balnced_binart_tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Date_03_04_2023/balnced_binart_tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/out/production/PRACTICE/demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/out/production/PRACTICE/demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/out/production/PRACTICE/linked_list/Date_03_04_2023/reverse_linked_list.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/out/production/PRACTICE/linked_list/Date_03_04_2023/reverse_linked_list.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/src/DFA/Date_03_05_2023/ending_000.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/src/DFA/Date_03_05_2023/ending_000.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/src/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/src/demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +39,7 @@
     &quot;last_opened_file_path&quot;: &quot;E:/COURSERA/hello&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Duplicate_Number">
+  <component name="RunManager" selected="Application.REorder_list">
     <configuration name="Add_Two_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Date_09_07_2023.Add_Two_Numbers" />
       <module name="LEETCODE" />
@@ -140,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three_sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_06_2023.Three_sum" />
+    <configuration name="REorder_list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_08_2023.REorder_list" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date_09_06_2023.*" />
+          <option name="PATTERN" value="Date_09_08_2023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.REorder_list" />
         <item itemvalue="Application.Duplicate_Number" />
         <item itemvalue="Application.Merge_k_Sorted_Lists" />
         <item itemvalue="Application.Add_Two_Numbers" />
         <item itemvalue="Application.K_frequent_elements" />
-        <item itemvalue="Application.Three_sum" />
       </list>
     </recent_temporary>
   </component>
