@@ -5,12 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc7c1c7f-a759-4b85-9654-df9412a44eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Date_09_08_2023/Delete_Nth_node_from_Last.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_08_2023/palindrome_LL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_09_2023/Large_factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_09_2023/Remove_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_09_2023/Spiral_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_10_2023/LeetCode_and_InterviewBit/Matrix_Search_2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_10_2023/LeetCode_and_InterviewBit/Maximum_triplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_10_2023/LeetCode_and_InterviewBit/Noble_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_10_2023/LeetCode_and_InterviewBit/Plus_One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_10_2023/LeetCode_and_InterviewBit/Triangle_Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_10_2023/LeetCode_and_InterviewBit/occurences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pascal_pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pattern10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pattern6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pattern7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pattern8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pattern9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_09_2023/Large_factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_09_2023/Large_factorial.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +56,13 @@
     &quot;last_opened_file_path&quot;: &quot;E:/COURSERA/hello&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Large_factorial">
-    <configuration name="Duplicate_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_07_2023.Duplicate_Number" />
+  <component name="RunManager" selected="Application.pattern10">
+    <configuration name="pascal_pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_10_2023.Pattern_Questions.pascal_pattern" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date_09_07_2023.*" />
+          <option name="PATTERN" value="Date_09_10_2023.Pattern_Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Large_factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_09_2023.Large_factorial" />
+    <configuration name="pattern10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_10_2023.Pattern_Questions.pattern10" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date_09_09_2023.*" />
+          <option name="PATTERN" value="Date_09_10_2023.Pattern_Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="REorder_list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_08_2023.REorder_list" />
+    <configuration name="pattern6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_10_2023.Pattern_Questions.pattern6" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date_09_08_2023.*" />
+          <option name="PATTERN" value="Date_09_10_2023.Pattern_Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remove_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_09_2023.Remove_Element" />
+    <configuration name="pattern7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_10_2023.Pattern_Questions.pattern7" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date_09_09_2023.*" />
+          <option name="PATTERN" value="Date_09_10_2023.Pattern_Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Spiral_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_09_2023.Spiral_Matrix" />
+    <configuration name="pattern9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_10_2023.Pattern_Questions.pattern9" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date_09_09_2023.*" />
+          <option name="PATTERN" value="Date_09_10_2023.Pattern_Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Large_factorial" />
-        <item itemvalue="Application.Spiral_Matrix" />
-        <item itemvalue="Application.Remove_Element" />
-        <item itemvalue="Application.REorder_list" />
-        <item itemvalue="Application.Duplicate_Number" />
+        <item itemvalue="Application.pattern10" />
+        <item itemvalue="Application.pattern9" />
+        <item itemvalue="Application.pattern6" />
+        <item itemvalue="Application.pattern7" />
+        <item itemvalue="Application.pascal_pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -153,6 +166,16 @@
           <url>file://$PROJECT_DIR$/src/Date_08_30_2023/Daily_Temperatures.java</url>
           <line>6</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date_09_10_2023/LeetCode_and_InterviewBit/Noble_Integer.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date_09_10_2023/LeetCode_and_InterviewBit/Maximum_triplet.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Date_02_06_2023/SearchInsertPosition.java</url>
