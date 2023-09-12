@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc7c1c7f-a759-4b85-9654-df9412a44eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Date_09_11_2023/LeetCode/Majority_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_11_2023/LeetCode/Product_Self.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_11_2023/LeetCode/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_11_2023/LeetCode/RemoveDuplicatesFromSortedArrayII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_11_2023/Sorting/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_11_2023/Sorting/Insertion_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_11_2023/Sorting/Selection_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_12_2023/LeetCode/Add_Binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_12_2023/LeetCode/Peak_element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_12_2023/Practice/Counting_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_12_2023/Practice/Quick_Select.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_12_2023/Recursion/In_Place_Merge_Sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_12_2023/Recursion/Merge_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_12_2023/Recursion/Quick_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_12_2023/Recursion/practice1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_10_2023/Pattern_Questions/pattern10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_10_2023/Pattern_Questions/pattern10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_11_2023/Sorting/Insertion_Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_11_2023/Sorting/Insertion_Sort.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +47,13 @@
     &quot;last_opened_file_path&quot;: &quot;E:/COURSERA/hello&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Insertion_Sort">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_11_2023.Sorting.BubbleSort" />
+  <component name="RunManager" selected="Application.Add_Binary">
+    <configuration name="Add_Binary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_12_2023.LeetCode.Add_Binary" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date_09_11_2023.Sorting.*" />
+          <option name="PATTERN" value="Date_09_12_2023.LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Insertion_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_11_2023.Sorting.Insertion_Sort" />
+    <configuration name="Counting_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_12_2023.Practice.Counting_Sort" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date_09_11_2023.Sorting.*" />
+          <option name="PATTERN" value="Date_09_12_2023.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Product_Self" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_11_2023.LeetCode.Product_Self" />
+    <configuration name="In_Place_Merge_Sorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_12_2023.Recursion.In_Place_Merge_Sorted" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date_09_11_2023.LeetCode.*" />
+          <option name="PATTERN" value="Date_09_12_2023.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_11_2023.LeetCode.RemoveDuplicatesFromSortedArray" />
+    <configuration name="Merge_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_12_2023.Recursion.Merge_Sort" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date_09_11_2023.LeetCode.*" />
+          <option name="PATTERN" value="Date_09_12_2023.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selection_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_11_2023.Sorting.Selection_Sort" />
+    <configuration name="Quick_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_12_2023.Recursion.Quick_Sort" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date_09_11_2023.Sorting.*" />
+          <option name="PATTERN" value="Date_09_12_2023.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Insertion_Sort" />
-        <item itemvalue="Application.Selection_Sort" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.Product_Self" />
-        <item itemvalue="Application.RemoveDuplicatesFromSortedArray" />
+        <item itemvalue="Application.Add_Binary" />
+        <item itemvalue="Application.Counting_Sort" />
+        <item itemvalue="Application.In_Place_Merge_Sorted" />
+        <item itemvalue="Application.Merge_Sort" />
+        <item itemvalue="Application.Quick_Sort" />
       </list>
     </recent_temporary>
   </component>
