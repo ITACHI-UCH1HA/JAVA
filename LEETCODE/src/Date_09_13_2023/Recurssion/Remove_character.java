@@ -3,7 +3,12 @@ package Date_09_13_2023.Recurssion;
 public class Remove_character {
     public static void main(String[] args) {
         String s="baccad";
-        System.out.println(removed_char(s,""));
+        System.out.println(removed_char_II(s,"a"));
+    }
+
+    private static String removed_char_II(String s,String a) {
+        String[] ans=s.split(a);
+        return ans.toString();
     }
 
     private static String removed_char(String s,String ans) {

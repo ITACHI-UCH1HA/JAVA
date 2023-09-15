@@ -11,9 +11,6 @@ public class Print_Subset {
     public List<List<Integer>> subset(int[] nums){
         List<List<Integer>> ans=new ArrayList<>();
         for (int i = 0; i < nums.length; i++) {
-            for (int j = 0; j < ; j++) {
-                
-            }
         }
         return ans;
     }
