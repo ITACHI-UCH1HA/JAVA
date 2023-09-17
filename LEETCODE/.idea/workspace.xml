@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc7c1c7f-a759-4b85-9654-df9412a44eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Date_09_16_2023/NeetCode/Arrays_ans_Hashing/Contains_Duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_16_2023/NeetCode/Arrays_ans_Hashing/Two_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_16_2023/NeetCode/Arrays_ans_Hashing/Valid_Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_16_2023/Recurssion/Iterative_Print_Seq.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_17_2023/NeetCode/Stack/Valid_Parentheses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,26 +38,13 @@
     &quot;last_opened_file_path&quot;: &quot;E:/COURSERA/hello&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Valid_Anagram">
+  <component name="RunManager" selected="Application.Valid_Parentheses">
     <configuration name="Contains_Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Date_09_16_2023.NeetCode.Arrays_ans_Hashing.Contains_Duplicate" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Date_09_16_2023.NeetCode.Arrays_ans_Hashing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Group_Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_15_2023.LeetCode.Group_Anagrams" />
-      <module name="LEETCODE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Date_09_15_2023.LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,13 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Valid_Parentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_17_2023.NeetCode.Stack.Valid_Parentheses" />
+      <module name="LEETCODE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Date_09_17_2023.NeetCode.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Valid_Parentheses" />
         <item itemvalue="Application.Valid_Anagram" />
         <item itemvalue="Application.Two_Sum" />
         <item itemvalue="Application.Contains_Duplicate" />
         <item itemvalue="Application.Iterative_Print_Seq" />
-        <item itemvalue="Application.Group_Anagrams" />
       </list>
     </recent_temporary>
   </component>
