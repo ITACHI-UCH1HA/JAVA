@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Contains_Duplicate {
     public static void main(String[] args) {
-        int[] nums={1,1,1,3,3,4,3,2,4,2};
+        int[] nums={1,2,3};
         System.out.println(containsDuplicate_III(nums));
     }
     public static boolean containsDuplicate_I(int[] nums) {
@@ -28,13 +28,16 @@ public class Contains_Duplicate {
     }
     public static boolean containsDuplicate_III(int[] nums) {
         Map<Integer,Integer> map=new HashMap<>();
+//        for (int num:nums) {
+//            if(map.containsKey(num)){
+//                map.put(num,map.get(num)+1);
+//            }
+//            else{
+//                map.put(num,1);
+//            }
+//        }
         for (int num:nums) {
-            if(map.containsKey(num)){
-                map.put(num,map.get(num)+1);
-            }
-            else{
-                map.put(num,1);
-            }
+            map.put(num,map.getOrDefault(num,0)+1);
         }
         for (int count: map.values()) {
             if(count>1){

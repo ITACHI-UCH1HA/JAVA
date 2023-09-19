@@ -7,7 +7,7 @@ import java.util.PriorityQueue;
 
 public class Top_K_Frequent {
     public static void main(String[] args) {
-        int[] nums={1,2};
+        int[] nums={1,1,1,2,2,2,2,3,3,3,3,3};
         System.out.println(Arrays.toString(topKFrequent_II(nums,2)));
     }
     public static int[] topKFrequent(int[] nums, int k) {
