@@ -1,4 +1,4 @@
-package Date_09_18_2023.NeetCode.Linked_List;
+package Date_09_18_2023.Linked_List;
 
 import java.util.*;
 

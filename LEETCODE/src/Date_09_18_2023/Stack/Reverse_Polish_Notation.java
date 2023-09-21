@@ -1,4 +1,4 @@
-package Date_09_18_2023.NeetCode.Stack;
+package Date_09_18_2023.Stack;
 
 import java.util.Stack;
 
