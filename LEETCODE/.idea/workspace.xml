@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc7c1c7f-a759-4b85-9654-df9412a44eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Date_09_21_2023/BST/BST_LevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_21_2023/BST/Binary_Search_Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_21_2023/BST/Delete_Node_In_BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_21_2023/BST/Search_In_BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_21_2023/BST/reverse_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_21_2023/NeetCode/CountingBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_21_2023/NeetCode/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_21_2023/NeetCode/Number_of_1_Bits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_21_2023/NeetCode/Single_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_22_2023/LeetCode/Integer_To_Roman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_22_2023/LeetCode/Roman_To_Integer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_18_2023/NeetCode/Linked_List/Group_Anagrams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_18_2023/NeetCode/Linked_List/ReverseLL$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_18_2023/NeetCode/Linked_List/ReverseLL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_18_2023/NeetCode/Linked_List/Top_K_Frequent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_18_2023/NeetCode/Linked_List/Valid_Anagram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_18_2023/NeetCode/Stack/Reverse_Polish_Notation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_18_2023/NeetCode/Linked_List/Group_Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Date_09_18_2023/Linked_List/Group_Anagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_18_2023/NeetCode/Linked_List/ReverseLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Date_09_18_2023/Linked_List/ReverseLL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_18_2023/NeetCode/Linked_List/Top_K_Frequent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Date_09_18_2023/Linked_List/Top_K_Frequent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_18_2023/NeetCode/Linked_List/Valid_Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Date_09_18_2023/Linked_List/Valid_Anagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_18_2023/NeetCode/Stack/Reverse_Polish_Notation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Date_09_18_2023/Stack/Reverse_Polish_Notation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_21_2023/BST/Delete_Node_In_BST$DeleteNodeInBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_21_2023/BST/Delete_Node_In_BST$DeleteNodeInBST.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +41,7 @@
     &quot;last_opened_file_path&quot;: &quot;E:/COURSERA/hello&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Delete_Node_In_BST$DeleteNodeInBST">
+  <component name="RunManager" selected="Application.Roman_To_Integer">
     <configuration name="CountingBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Date_09_21_2023.NeetCode.CountingBits" />
       <module name="LEETCODE" />
@@ -85,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_21_2023.NeetCode.MissingNumber" />
+    <configuration name="Number_of_1_Bits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_21_2023.NeetCode.Number_of_1_Bits" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
@@ -98,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_of_1_Bits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_21_2023.NeetCode.Number_of_1_Bits" />
+    <configuration name="Roman_To_Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_22_2023.LeetCode.Roman_To_Integer" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date_09_21_2023.NeetCode.*" />
+          <option name="PATTERN" value="Date_09_22_2023.LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Roman_To_Integer" />
         <item itemvalue="Application.Delete_Node_In_BST$DeleteNodeInBST" />
         <item itemvalue="Application.Search_In_BST$SearchInBST" />
         <item itemvalue="Application.CountingBits" />
         <item itemvalue="Application.Number_of_1_Bits" />
-        <item itemvalue="Application.MissingNumber" />
       </list>
     </recent_temporary>
   </component>
