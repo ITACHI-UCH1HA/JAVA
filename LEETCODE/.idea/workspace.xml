@@ -5,10 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc7c1c7f-a759-4b85-9654-df9412a44eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Date_09_22_2023/LeetCode/Integer_To_Roman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_22_2023/LeetCode/Roman_To_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_22_2023/LeetCode/First_Occurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_22_2023/LeetCode/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_22_2023/LeetCode/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_22_2023/LeetCode/Reverse_Words_In_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_23_2023/LeetCode/Remove_Duplicate_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_23_2023/LeetCode/Remove_Duplicates_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_23_2023/LeetCode/Three_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_23_2023/LeetCode/ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_23_2023/LeetCode/ZigZag_Conversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_21_2023/BST/Delete_Node_In_BST$DeleteNodeInBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_21_2023/BST/Delete_Node_In_BST$DeleteNodeInBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_22_2023/LeetCode/Roman_To_Integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_22_2023/LeetCode/Roman_To_Integer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Date_09_22_2023/LeetCode/Integer_To_Roman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Date_09_22_2023/LeetCode/Integer_To_Roman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Date_09_22_2023/LeetCode/Roman_To_Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Date_09_22_2023/LeetCode/Roman_To_Integer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +50,13 @@
     &quot;last_opened_file_path&quot;: &quot;E:/COURSERA/hello&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Roman_To_Integer">
-    <configuration name="CountingBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_21_2023.NeetCode.CountingBits" />
+  <component name="RunManager" selected="Application.ValidPalindrome">
+    <configuration name="First_Occurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_22_2023.LeetCode.First_Occurence" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date_09_21_2023.NeetCode.*" />
+          <option name="PATTERN" value="Date_09_23_2023.LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Delete_Node_In_BST$DeleteNodeInBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_21_2023.BST.Delete_Node_In_BST$DeleteNodeInBST" />
+    <configuration name="Remove_Duplicate_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_23_2023.LeetCode.Remove_Duplicate_II" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date_09_21_2023.BST.*" />
+          <option name="PATTERN" value="Date_09_23_2023.LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Number_of_1_Bits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_21_2023.NeetCode.Number_of_1_Bits" />
+    <configuration name="Remove_Duplicates_I" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_23_2023.LeetCode.Remove_Duplicates_I" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date_09_21_2023.NeetCode.*" />
+          <option name="PATTERN" value="Date_09_23_2023.LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Roman_To_Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_22_2023.LeetCode.Roman_To_Integer" />
+    <configuration name="ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_23_2023.LeetCode.ValidPalindrome" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date_09_22_2023.LeetCode.*" />
+          <option name="PATTERN" value="Date_09_23_2023.LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Search_In_BST$SearchInBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_21_2023.BST.Search_In_BST$SearchInBST" />
+    <configuration name="ZigZag_Conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_23_2023.LeetCode.ZigZag_Conversion" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date_09_21_2023.BST.*" />
+          <option name="PATTERN" value="Date_09_23_2023.LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Roman_To_Integer" />
-        <item itemvalue="Application.Delete_Node_In_BST$DeleteNodeInBST" />
-        <item itemvalue="Application.Search_In_BST$SearchInBST" />
-        <item itemvalue="Application.CountingBits" />
-        <item itemvalue="Application.Number_of_1_Bits" />
+        <item itemvalue="Application.ValidPalindrome" />
+        <item itemvalue="Application.Remove_Duplicate_II" />
+        <item itemvalue="Application.Remove_Duplicates_I" />
+        <item itemvalue="Application.ZigZag_Conversion" />
+        <item itemvalue="Application.First_Occurence" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +180,16 @@
           <url>file://$PROJECT_DIR$/src/Date_09_21_2023/NeetCode/Number_of_1_Bits.java</url>
           <line>9</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date_09_22_2023/LeetCode/MergeSortedArray.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Date_09_23_2023/LeetCode/Remove_Duplicate_II.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Date_02_06_2023/SearchInsertPosition.java</url>
