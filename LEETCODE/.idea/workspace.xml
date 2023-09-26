@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc7c1c7f-a759-4b85-9654-df9412a44eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Date_09_25_2023/NthNodeDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_09_26_2023/SubSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Date_09_25_2023/NthNodeDelete.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +40,7 @@
     &quot;last_opened_file_path&quot;: &quot;E:/COURSERA/hello&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ValidPalindrome">
-    <configuration name="First_Occurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_22_2023.LeetCode.First_Occurence" />
-      <module name="LEETCODE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Date_09_23_2023.LeetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SubSets">
     <configuration name="Remove_Duplicate_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Date_09_23_2023.LeetCode.Remove_Duplicate_II" />
       <module name="LEETCODE" />
@@ -71,6 +60,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Date_09_23_2023.LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_26_2023.SubSets" />
+      <module name="LEETCODE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Date_09_26_2023.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubSets" />
         <item itemvalue="Application.ValidPalindrome" />
         <item itemvalue="Application.Remove_Duplicate_II" />
         <item itemvalue="Application.Remove_Duplicates_I" />
         <item itemvalue="Application.ZigZag_Conversion" />
-        <item itemvalue="Application.First_Occurence" />
       </list>
     </recent_temporary>
   </component>
