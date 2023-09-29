@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc7c1c7f-a759-4b85-9654-df9412a44eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Date_09_28_2023/CombinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Date_09_28_2023/WordBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bc7c1c7f-a759-4b85-9654-df9412a44eda" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +36,20 @@
     &quot;last_opened_file_path&quot;: &quot;E:/COURSERA/hello&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WordBreak (1)">
+  <component name="RunManager" selected="Application.Date_09_29_2023.ValidPalindrome">
+    <configuration name="Date_09_29_2023.ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_09_29_2023.ValidPalindrome" />
+      <module name="LEETCODE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Date_09_29_2023.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SubSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Date_09_26_2023.SubSets" />
       <module name="LEETCODE" />
@@ -60,19 +69,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Date_09_27_2023.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_23_2023.LeetCode.ValidPalindrome" />
-      <module name="LEETCODE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Date_09_23_2023.LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Date_09_29_2023.ValidPalindrome" />
         <item itemvalue="Application.WordBreak (1)" />
         <item itemvalue="Application.WordBreak" />
         <item itemvalue="Application.Trie" />
         <item itemvalue="Application.SubSets" />
-        <item itemvalue="Application.ValidPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -192,15 +188,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Date_09_28_2023/WordBreak.java</url>
-          <line>42</line>
-          <properties class="Date_09_28_2023.WordBreak" method="wordBreak">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
