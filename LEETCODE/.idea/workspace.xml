@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc7c1c7f-a759-4b85-9654-df9412a44eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Date_09_30_2023/Pattern_132.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October_2023/Date_01/Three_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October_2023/Date_01/Two_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October_2023/Date_01/Valid_Sudoku.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +41,7 @@
     &quot;last_opened_file_path&quot;: &quot;E:/COURSERA/hello&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Pattern_132">
+  <component name="RunManager" selected="Application.Valid_Sudoku">
     <configuration name="Date_09_29_2023.ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Date_09_29_2023.ValidPalindrome" />
       <module name="LEETCODE" />
@@ -66,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_27_2023.Trie" />
+    <configuration name="Three_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="October_2023.Date_01.Three_Sum" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date_09_27_2023.*" />
+          <option name="PATTERN" value="October_2023.Date_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,19 +81,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordBreak (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WordBreak" />
+    <configuration name="Two_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="October_2023.Date_01.Two_Sum" />
       <module name="LEETCODE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="October_2023.Date_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Date_09_28_2023.WordBreak" />
+    <configuration name="Valid_Sudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="October_2023.Date_01.Valid_Sudoku" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Date_09_28_2023.*" />
+          <option name="PATTERN" value="October_2023.Date_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Valid_Sudoku" />
+        <item itemvalue="Application.Three_Sum" />
+        <item itemvalue="Application.Two_Sum" />
         <item itemvalue="Application.Pattern_132" />
         <item itemvalue="Application.Date_09_29_2023.ValidPalindrome" />
-        <item itemvalue="Application.WordBreak (1)" />
-        <item itemvalue="Application.WordBreak" />
-        <item itemvalue="Application.Trie" />
       </list>
     </recent_temporary>
   </component>
