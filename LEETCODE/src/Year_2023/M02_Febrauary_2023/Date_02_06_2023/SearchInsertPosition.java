@@ -1,0 +1,19 @@
+package Year_2023.M02_Febrauary_2023.Date_02_06_2023;
+//https://leetcode.com/problems/search-insert-position/?envType=study-plan&id=binary-search-i
+public class SearchInsertPosition {
+    public static void main(String[] args) {
+        int[] nums = {1, 2, 3, 4, 5};
+        System.out.println(searchInsert(nums, 0));
+    }
+
+    public static int searchInsert(int[] nums,int target) {
+        int start = 0, end = nums.length - 1;
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
+            if (nums[mid] == target) return mid;
+            else if (nums[mid] < target) start = mid + 1;
+            else end = mid - 1;
+        }
+        return start;
+    }
+}
