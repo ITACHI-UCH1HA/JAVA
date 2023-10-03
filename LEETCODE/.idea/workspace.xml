@@ -5,415 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc7c1c7f-a759-4b85-9654-df9412a44eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Year_2023/M10_October_2023/Date_02/FindMinimumInRotatedSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year_2023/M10_October_2023/Date_02/KokoEatingBananas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year_2023/M10_October_2023/Date_02/Search_2D_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year_2023/M10_October_2023/Date_02/Tries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year_2023/M10_October_2023/Date_02/count_SubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year_2023/M10_October_2023/Date_03/BurningTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year_2023/M10_October_2023/Date_03/Prime_Number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_01_09_2023/Anagram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_01_09_2023/countains_duplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_01_11_2023/Intersection_of_Two_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_01_11_2023/straight_line.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_01_21_2023/Binary_search.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_01_21_2023/Contains_Duplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_01_21_2023/Guess_Number_Higher_or_Lower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_01_21_2023/Merge_Sorted_Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_01_21_2023/Two_Sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_01_21_2023/maximum_subarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_01_23_2023/Peak_Index_in_a_Mountain_Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_01_23_2023/Search_Insert_Position.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_01_23_2023/Valid_Perfect_Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_01_25_2023/Intersection_of_Two_Arrays_II.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_01_26_2023/Arranging_Coins.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_06_2023/ArrayTwoPointersBinarySearchSorting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_06_2023/Find_Smallest_Letter_Greater_Than_Target.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_06_2023/PeakIndexInAMountainArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_06_2023/SearchInsertPosition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_06_2023/Sqrt_x.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_06_2023/Valid_Perfect_Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_07_2023/FindFirstAndLastPositionOfElementInSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_08_2023/Arranging_Coins.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_10_2023/search_2D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_13_2023/firstbadversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_20_2023/PalindromeLinkedList$LinkedList$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_20_2023/PalindromeLinkedList$LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_20_2023/PalindromeLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_22_2023/ReverseLinkedList_II$LinkList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_22_2023/ReverseLinkedList_II$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_22_2023/ReverseLinkedList_II.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_23_2023/palindromell$LL$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_23_2023/palindromell$LL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_23_2023/palindromell.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_25_2023/Add_two_numbers$Linklist$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_25_2023/Add_two_numbers$Linklist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_02_25_2023/Add_two_numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_03_04_2023/balnced_binart_tree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_03_04_2023/balnced_binart_tree$buildtree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_03_04_2023/balnced_binart_tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_03_09_2023/LinkedListCycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_06_10_2023/GreatestNumberofCandies.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_06_10_2023/MergeStringsAlternately.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_06_10_2023/ReverseWordsInAString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_07_11_2023/Minimum_Bit_Flips.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_07_11_2023/one_bit_two_bit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_07_13_2023/Top_K_Frequent_Elements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_07_13_2023/product_self.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_07_14_2023/Three_sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_07_14_2023/sorting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_07_14_2023/valid_palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_07_15_2023/two_sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_07_16_2023/rotated_array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_07_17_2023/Jump_Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_07_17_2023/Reverse_integer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_07_17_2023/plus_one.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_07_20_2023/Is_palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_07_27_2023/Move_zeroes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_08_19_2023/MyPow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_08_29_2023/Min_Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_08_29_2023/Reverse_Polish_Notation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_08_29_2023/valid_parenthesis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_08_30_2023/Daily_Temperatures.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_08_30_2023/Three_sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_08_30_2023/Two_Sum_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_08_31_2023/K_frequent_elements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_08_31_2023/Longest_Consecutive_Sequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_08_31_2023/Rotated_Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_02_2023/LL_mergesorter$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_02_2023/LL_mergesorter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_04_2023/Temparatures.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_05_2023/Longest_consecutive$UnionFind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_05_2023/Longest_consecutive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_05_2023/Prefix_sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_05_2023/Top_K_Frequent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_06_2023/Frequent_K_items.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_06_2023/HappyNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_06_2023/K_frequent_elements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_06_2023/Plus_One.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_06_2023/Three_sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_07_2023/Add_Two_Numbers$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_07_2023/Add_Two_Numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_07_2023/Duplicate_Number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_07_2023/Merge_k_Sorted_Lists$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_07_2023/Merge_k_Sorted_Lists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_07_2023/Reorder_List$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_07_2023/Reorder_List.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_08_2023/Delete_Nth_node_from_Last$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_08_2023/Delete_Nth_node_from_Last.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_08_2023/REorder_list$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_08_2023/REorder_list.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_08_2023/palindrome_LL$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_08_2023/palindrome_LL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_09_2023/Large_factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_09_2023/Remove_Element.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_09_2023/Spiral_Matrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_10_2023/LeetCode_and_InterviewBit/Matrix_Search_2D.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_10_2023/LeetCode_and_InterviewBit/Maximum_triplet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_10_2023/LeetCode_and_InterviewBit/Noble_Integer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_10_2023/LeetCode_and_InterviewBit/Plus_One.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_10_2023/LeetCode_and_InterviewBit/Triangle_Area.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_10_2023/LeetCode_and_InterviewBit/occurences.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_10_2023/Pattern_Questions/pascal_pattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_10_2023/Pattern_Questions/pattern1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_10_2023/Pattern_Questions/pattern10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_10_2023/Pattern_Questions/pattern2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_10_2023/Pattern_Questions/pattern3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_10_2023/Pattern_Questions/pattern4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_10_2023/Pattern_Questions/pattern5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_10_2023/Pattern_Questions/pattern6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_10_2023/Pattern_Questions/pattern7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_10_2023/Pattern_Questions/pattern8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_10_2023/Pattern_Questions/pattern9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_11_2023/LeetCode/Majority_Element.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_11_2023/LeetCode/Product_Self.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_11_2023/LeetCode/RemoveDuplicatesFromSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_11_2023/LeetCode/RemoveDuplicatesFromSortedArrayII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_11_2023/Sorting/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_11_2023/Sorting/Insertion_Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_11_2023/Sorting/Selection_Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_12_2023/LeetCode/Add_Binary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_12_2023/LeetCode/Peak_element.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_12_2023/Practice/Counting_Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_12_2023/Practice/Quick_Select.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_12_2023/Recursion/In_Place_Merge_Sorted.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_12_2023/Recursion/Merge_Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_12_2023/Recursion/Quick_Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_12_2023/Recursion/practice1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_13_2023/LeetCode/BS_2D_Matrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_13_2023/LeetCode/Spiral_Matrix_II.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_13_2023/LeetCode/Spiral_Matrix_III.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_13_2023/LeetCode/spiral_matrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_13_2023/Recurssion/Print_ASCII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_13_2023/Recurssion/Print_Subset.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_13_2023/Recurssion/Remove_character.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_13_2023/Recurssion/SubSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_15_2023/LeetCode/Group_Anagrams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_15_2023/LeetCode/LengthofLastWord.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_15_2023/LeetCode/Sudoko.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_16_2023/NeetCode/Arrays_ans_Hashing/Contains_Duplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_16_2023/NeetCode/Arrays_ans_Hashing/Two_Sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_16_2023/NeetCode/Arrays_ans_Hashing/Valid_Anagram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_16_2023/Recurssion/Iterative_Print_Seq.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_17_2023/NeetCode/Stack/Valid_Parentheses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_18_2023/Linked_List/Group_Anagrams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_18_2023/Linked_List/ReverseLL$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_18_2023/Linked_List/ReverseLL.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_18_2023/Linked_List/Top_K_Frequent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_18_2023/Linked_List/Valid_Anagram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_18_2023/Stack/Reverse_Polish_Notation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_19_2023/LeetCode/SearchinRotatedSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_19_2023/NeetCode/FindMinInRotatedSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_19_2023/NeetCode/KokoEatingBananas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_19_2023/NeetCode/Longest_Consecutive_Sequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_19_2023/NeetCode/Product_self_Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_19_2023/NeetCode/Valid_Sudoko.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/NeetCode/Balanced_Tree$BalancedBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/NeetCode/Balanced_Tree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/NeetCode/Balanced_Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/NeetCode/Diameter_of_a_tree$BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/NeetCode/Diameter_of_a_tree$TreeInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/NeetCode/Diameter_of_a_tree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/NeetCode/Diameter_of_a_tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/NeetCode/Invert_Binary_Tree$InvertBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/NeetCode/Invert_Binary_Tree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/NeetCode/Invert_Binary_Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/NeetCode/Maximum_Depth_of_Tree$BinaryTreeMaxDepth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/NeetCode/Maximum_Depth_of_Tree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/NeetCode/Maximum_Depth_of_Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/NeetCode/Same_Tree$SameTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/NeetCode/Same_Tree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/NeetCode/Same_Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/NeetCode/SubTree$SubtreeCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/NeetCode/SubTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/NeetCode/SubTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/NeetCode/Subsets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/Trees/InOrder_Traversal$BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/Trees/InOrder_Traversal$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/Trees/InOrder_Traversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/Trees/Level_Order_Traversal$BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/Trees/Level_Order_Traversal$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/Trees/Level_Order_Traversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/Trees/PreOrder_Traversal$BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/Trees/PreOrder_Traversal$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/Trees/PreOrder_Traversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/Trees/Sum_of_Nodes_Kth_level$BinaryTreeLevelSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/Trees/Sum_of_Nodes_Kth_level$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_20_2023/Trees/Sum_of_Nodes_Kth_level.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_21_2023/BST/BST_LevelOrderTraversal$LevelOrderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_21_2023/BST/BST_LevelOrderTraversal$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_21_2023/BST/BST_LevelOrderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_21_2023/BST/Binary_Search_Tree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_21_2023/BST/Binary_Search_Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_21_2023/BST/Delete_Node_In_BST$DeleteNodeInBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_21_2023/BST/Delete_Node_In_BST$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_21_2023/BST/Delete_Node_In_BST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_21_2023/BST/Search_In_BST$SearchInBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_21_2023/BST/Search_In_BST$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_21_2023/BST/Search_In_BST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_21_2023/BST/reverse_string.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_21_2023/NeetCode/CountingBits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_21_2023/NeetCode/MissingNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_21_2023/NeetCode/Number_of_1_Bits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_21_2023/NeetCode/Single_Number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_22_2023/LeetCode/First_Occurence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_22_2023/LeetCode/Integer_To_Roman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_22_2023/LeetCode/LongestCommonPrefix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_22_2023/LeetCode/MergeSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_22_2023/LeetCode/Reverse_Words_In_String.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_22_2023/LeetCode/Roman_To_Integer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_23_2023/LeetCode/Remove_Duplicate_II.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_23_2023/LeetCode/Remove_Duplicates_I.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_23_2023/LeetCode/Three_Sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_23_2023/LeetCode/ValidPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_23_2023/LeetCode/ZigZag_Conversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_26_2023/SubSets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_27_2023/Trie$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_27_2023/Trie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_28_2023/CombinationSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_29_2023/ValidPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Date_09_30_2023/Pattern_132.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/October_2023/Date_01/Three_Sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/October_2023/Date_01/Two_Sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/October_2023/Date_01/Valid_Sudoku.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/WordBreak$TrieNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/WordBreak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_01_09_2023/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M01_January_2023/Date_01_09_2023/Anagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_01_09_2023/countains_duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M01_January_2023/Date_01_09_2023/countains_duplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_01_11_2023/Intersection_of_Two_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M01_January_2023/Date_01_11_2023/Intersection_of_Two_Arrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_01_11_2023/straight_line.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M01_January_2023/Date_01_11_2023/straight_line.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_01_21_2023/Binary_search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M01_January_2023/Date_01_21_2023/Binary_search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_01_21_2023/Contains_Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M01_January_2023/Date_01_21_2023/Contains_Duplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_01_21_2023/Guess_Number_Higher_or_Lower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M01_January_2023/Date_01_21_2023/Guess_Number_Higher_or_Lower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_01_21_2023/Merge_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M01_January_2023/Date_01_21_2023/Merge_Sorted_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_01_21_2023/Two_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M01_January_2023/Date_01_21_2023/Two_Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_01_21_2023/maximum_subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M01_January_2023/Date_01_21_2023/maximum_subarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_01_23_2023/Peak_Index_in_a_Mountain_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M01_January_2023/Date_01_23_2023/Peak_Index_in_a_Mountain_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_01_23_2023/Search_Insert_Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M01_January_2023/Date_01_23_2023/Search_Insert_Position.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_01_23_2023/Valid_Perfect_Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M01_January_2023/Date_01_23_2023/Valid_Perfect_Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_01_25_2023/Intersection_of_Two_Arrays_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M01_January_2023/Date_01_25_2023/Intersection_of_Two_Arrays_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_01_26_2023/Arranging_Coins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M01_January_2023/Date_01_26_2023/Arranging_Coins.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_02_06_2023/ArrayTwoPointersBinarySearchSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M02_Febrauary_2023/Date_02_06_2023/ArrayTwoPointersBinarySearchSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_02_06_2023/Find_Smallest_Letter_Greater_Than_Target.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M02_Febrauary_2023/Date_02_06_2023/Find_Smallest_Letter_Greater_Than_Target.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_02_06_2023/PeakIndexInAMountainArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M02_Febrauary_2023/Date_02_06_2023/PeakIndexInAMountainArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_02_06_2023/SearchInsertPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M02_Febrauary_2023/Date_02_06_2023/SearchInsertPosition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_02_06_2023/Sqrt_x.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M02_Febrauary_2023/Date_02_06_2023/Sqrt_x.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_02_06_2023/Valid_Perfect_Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M02_Febrauary_2023/Date_02_06_2023/Valid_Perfect_Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_02_07_2023/FindFirstAndLastPositionOfElementInSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M02_Febrauary_2023/Date_02_07_2023/FindFirstAndLastPositionOfElementInSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_02_08_2023/Arranging_Coins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M02_Febrauary_2023/Date_02_08_2023/Arranging_Coins.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_02_10_2023/search_2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M02_Febrauary_2023/Date_02_10_2023/search_2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_02_13_2023/firstbadversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M02_Febrauary_2023/Date_02_13_2023/firstbadversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_02_20_2023/PalindromeLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M02_Febrauary_2023/Date_02_20_2023/PalindromeLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_02_22_2023/ReverseLinkedList_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M02_Febrauary_2023/Date_02_22_2023/ReverseLinkedList_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_02_23_2023/palindromell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M02_Febrauary_2023/Date_02_23_2023/palindromell.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_02_25_2023/Add_two_numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M02_Febrauary_2023/Date_02_25_2023/Add_two_numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_03_04_2023/balnced_binart_tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M03_March_2023/Date_03_04_2023/balnced_binart_tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_03_09_2023/LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M03_March_2023/Date_03_09_2023/LinkedListCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_06_10_2023/GreatestNumberofCandies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M06_June_2023/Date_06_10_2023/GreatestNumberofCandies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_06_10_2023/MergeStringsAlternately.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M06_June_2023/Date_06_10_2023/MergeStringsAlternately.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_06_10_2023/ReverseWordsInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M06_June_2023/Date_06_10_2023/ReverseWordsInAString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_07_11_2023/Minimum_Bit_Flips.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M07_July_2023/Date_07_11_2023/Minimum_Bit_Flips.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_07_11_2023/one_bit_two_bit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M07_July_2023/Date_07_11_2023/one_bit_two_bit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_07_13_2023/Top_K_Frequent_Elements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M07_July_2023/Date_07_13_2023/Top_K_Frequent_Elements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_07_13_2023/product_self.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M07_July_2023/Date_07_13_2023/product_self.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_07_14_2023/Three_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M07_July_2023/Date_07_14_2023/Three_sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_07_14_2023/sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M07_July_2023/Date_07_14_2023/sorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_07_14_2023/valid_palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M07_July_2023/Date_07_14_2023/valid_palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_07_15_2023/two_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M07_July_2023/Date_07_15_2023/two_sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_07_16_2023/rotated_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M07_July_2023/Date_07_16_2023/rotated_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_07_17_2023/Jump_Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M07_July_2023/Date_07_17_2023/Jump_Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_07_17_2023/Reverse_integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M07_July_2023/Date_07_17_2023/Reverse_integer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_07_17_2023/plus_one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M07_July_2023/Date_07_17_2023/plus_one.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_07_20_2023/Is_palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M07_July_2023/Date_07_20_2023/Is_palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_07_27_2023/Move_zeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M07_July_2023/Date_07_27_2023/Move_zeroes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_08_19_2023/MyPow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M08_August_2023/Date_08_19_2023/MyPow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_08_29_2023/Min_Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M08_August_2023/Date_08_29_2023/Min_Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_08_29_2023/Reverse_Polish_Notation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M08_August_2023/Date_08_29_2023/Reverse_Polish_Notation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_08_29_2023/valid_parenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M08_August_2023/Date_08_29_2023/valid_parenthesis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_08_30_2023/Daily_Temperatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M08_August_2023/Date_08_30_2023/Daily_Temperatures.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_08_30_2023/Three_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M08_August_2023/Date_08_30_2023/Three_sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_08_30_2023/Two_Sum_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M08_August_2023/Date_08_30_2023/Two_Sum_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_08_31_2023/K_frequent_elements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M08_August_2023/Date_08_31_2023/K_frequent_elements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_08_31_2023/Longest_Consecutive_Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M08_August_2023/Date_08_31_2023/Longest_Consecutive_Sequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_08_31_2023/Rotated_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M08_August_2023/Date_08_31_2023/Rotated_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_02_2023/LL_mergesorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_02_2023/LL_mergesorter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_04_2023/Temparatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_04_2023/Temparatures.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_05_2023/Longest_consecutive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_05_2023/Longest_consecutive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_05_2023/Prefix_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_05_2023/Prefix_sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_05_2023/Top_K_Frequent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_05_2023/Top_K_Frequent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_06_2023/Frequent_K_items.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_06_2023/Frequent_K_items.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_06_2023/HappyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_06_2023/HappyNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_06_2023/K_frequent_elements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_06_2023/K_frequent_elements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_06_2023/Plus_One.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_06_2023/Plus_One.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_06_2023/Three_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_06_2023/Three_sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_07_2023/Add_Two_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_07_2023/Add_Two_Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_07_2023/Duplicate_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_07_2023/Duplicate_Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_07_2023/Merge_k_Sorted_Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_07_2023/Merge_k_Sorted_Lists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_07_2023/Reorder_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_07_2023/Reorder_List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_08_2023/Delete_Nth_node_from_Last.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_08_2023/Delete_Nth_node_from_Last.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_08_2023/REorder_list.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_08_2023/REorder_list.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_08_2023/palindrome_LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_08_2023/palindrome_LL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_09_2023/Large_factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_09_2023/Large_factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_09_2023/Remove_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_09_2023/Remove_Element.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_09_2023/Spiral_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_09_2023/Spiral_Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_10_2023/LeetCode_and_InterviewBit/Matrix_Search_2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_10_2023/LeetCode_and_InterviewBit/Matrix_Search_2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_10_2023/LeetCode_and_InterviewBit/Maximum_triplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_10_2023/LeetCode_and_InterviewBit/Maximum_triplet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_10_2023/LeetCode_and_InterviewBit/Noble_Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_10_2023/LeetCode_and_InterviewBit/Noble_Integer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_10_2023/LeetCode_and_InterviewBit/Plus_One.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_10_2023/LeetCode_and_InterviewBit/Plus_One.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_10_2023/LeetCode_and_InterviewBit/Triangle_Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_10_2023/LeetCode_and_InterviewBit/Triangle_Area.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_10_2023/LeetCode_and_InterviewBit/occurences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_10_2023/LeetCode_and_InterviewBit/occurences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pascal_pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_10_2023/Pattern_Questions/pascal_pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_10_2023/Pattern_Questions/pattern1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pattern10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_10_2023/Pattern_Questions/pattern10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pattern2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_10_2023/Pattern_Questions/pattern2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pattern3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_10_2023/Pattern_Questions/pattern3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pattern4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_10_2023/Pattern_Questions/pattern4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pattern5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_10_2023/Pattern_Questions/pattern5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pattern6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_10_2023/Pattern_Questions/pattern6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pattern7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_10_2023/Pattern_Questions/pattern7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pattern8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_10_2023/Pattern_Questions/pattern8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_10_2023/Pattern_Questions/pattern9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_10_2023/Pattern_Questions/pattern9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_11_2023/LeetCode/Majority_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_11_2023/LeetCode/Majority_Element.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_11_2023/LeetCode/Product_Self.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_11_2023/LeetCode/Product_Self.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_11_2023/LeetCode/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_11_2023/LeetCode/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_11_2023/LeetCode/RemoveDuplicatesFromSortedArrayII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_11_2023/LeetCode/RemoveDuplicatesFromSortedArrayII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_11_2023/Sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_11_2023/Sorting/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_11_2023/Sorting/Insertion_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_11_2023/Sorting/Insertion_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_11_2023/Sorting/Selection_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_11_2023/Sorting/Selection_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_12_2023/LeetCode/Add_Binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_12_2023/LeetCode/Add_Binary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_12_2023/LeetCode/Peak_element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_12_2023/LeetCode/Peak_element.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_12_2023/Practice/Counting_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_12_2023/Practice/Counting_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_12_2023/Practice/Quick_Select.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_12_2023/Practice/Quick_Select.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_12_2023/Recursion/In_Place_Merge_Sorted.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_12_2023/Recursion/In_Place_Merge_Sorted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_12_2023/Recursion/Merge_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_12_2023/Recursion/Merge_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_12_2023/Recursion/Quick_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_12_2023/Recursion/Quick_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_12_2023/Recursion/practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_12_2023/Recursion/practice1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_13_2023/LeetCode/BS_2D_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_13_2023/LeetCode/BS_2D_Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_13_2023/LeetCode/Spiral_Matrix_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_13_2023/LeetCode/Spiral_Matrix_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_13_2023/LeetCode/Spiral_Matrix_III.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_13_2023/LeetCode/Spiral_Matrix_III.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_13_2023/LeetCode/spiral_matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_13_2023/LeetCode/spiral_matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_13_2023/Recurssion/Print_ASCII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_13_2023/Recurssion/Print_ASCII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_13_2023/Recurssion/Print_Subset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_13_2023/Recurssion/Print_Subset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_13_2023/Recurssion/Remove_character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_13_2023/Recurssion/Remove_character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_13_2023/Recurssion/SubSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_13_2023/Recurssion/SubSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_15_2023/LeetCode/Group_Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_15_2023/LeetCode/Group_Anagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_15_2023/LeetCode/LengthofLastWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_15_2023/LeetCode/LengthofLastWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_15_2023/LeetCode/Sudoko.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_15_2023/LeetCode/Sudoko.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_16_2023/NeetCode/Arrays_ans_Hashing/Contains_Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_16_2023/NeetCode/Arrays_ans_Hashing/Contains_Duplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_16_2023/NeetCode/Arrays_ans_Hashing/Two_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_16_2023/NeetCode/Arrays_ans_Hashing/Two_Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_16_2023/NeetCode/Arrays_ans_Hashing/Valid_Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_16_2023/NeetCode/Arrays_ans_Hashing/Valid_Anagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_16_2023/Recurssion/Iterative_Print_Seq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_16_2023/Recurssion/Iterative_Print_Seq.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_17_2023/NeetCode/Stack/Valid_Parentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_17_2023/NeetCode/Stack/Valid_Parentheses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_18_2023/Linked_List/Group_Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_18_2023/Linked_List/Group_Anagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_18_2023/Linked_List/ReverseLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_18_2023/Linked_List/ReverseLL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_18_2023/Linked_List/Top_K_Frequent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_18_2023/Linked_List/Top_K_Frequent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_18_2023/Linked_List/Valid_Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_18_2023/Linked_List/Valid_Anagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_18_2023/Stack/Reverse_Polish_Notation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_18_2023/Stack/Reverse_Polish_Notation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_19_2023/LeetCode/SearchinRotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_19_2023/LeetCode/SearchinRotatedSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_19_2023/NeetCode/FindMinInRotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_19_2023/NeetCode/FindMinInRotatedSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_19_2023/NeetCode/KokoEatingBananas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_19_2023/NeetCode/KokoEatingBananas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_19_2023/NeetCode/Longest_Consecutive_Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_19_2023/NeetCode/Longest_Consecutive_Sequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_19_2023/NeetCode/Product_self_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_19_2023/NeetCode/Product_self_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_19_2023/NeetCode/Valid_Sudoko.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_19_2023/NeetCode/Valid_Sudoko.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_20_2023/NeetCode/Balanced_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_20_2023/NeetCode/Balanced_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_20_2023/NeetCode/Diameter_of_a_tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_20_2023/NeetCode/Diameter_of_a_tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_20_2023/NeetCode/Invert_Binary_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_20_2023/NeetCode/Invert_Binary_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_20_2023/NeetCode/Maximum_Depth_of_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_20_2023/NeetCode/Maximum_Depth_of_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_20_2023/NeetCode/Same_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_20_2023/NeetCode/Same_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_20_2023/NeetCode/SubTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_20_2023/NeetCode/SubTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_20_2023/NeetCode/Subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_20_2023/NeetCode/Subsets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_20_2023/Trees/InOrder_Traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_20_2023/Trees/InOrder_Traversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_20_2023/Trees/Level_Order_Traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_20_2023/Trees/Level_Order_Traversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_20_2023/Trees/PreOrder_Traversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_20_2023/Trees/PreOrder_Traversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_20_2023/Trees/Sum_of_Nodes_Kth_level.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_20_2023/Trees/Sum_of_Nodes_Kth_level.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_21_2023/BST/BST_LevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_21_2023/BST/BST_LevelOrderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_21_2023/BST/Binary_Search_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_21_2023/BST/Binary_Search_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_21_2023/BST/Delete_Node_In_BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_21_2023/BST/Delete_Node_In_BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_21_2023/BST/Search_In_BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_21_2023/BST/Search_In_BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_21_2023/BST/reverse_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_21_2023/BST/reverse_string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_21_2023/NeetCode/CountingBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_21_2023/NeetCode/CountingBits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_21_2023/NeetCode/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_21_2023/NeetCode/MissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_21_2023/NeetCode/Number_of_1_Bits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_21_2023/NeetCode/Number_of_1_Bits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_21_2023/NeetCode/Single_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_21_2023/NeetCode/Single_Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_22_2023/LeetCode/First_Occurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_22_2023/LeetCode/First_Occurence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_22_2023/LeetCode/Integer_To_Roman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_22_2023/LeetCode/Integer_To_Roman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_22_2023/LeetCode/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_22_2023/LeetCode/LongestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_22_2023/LeetCode/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_22_2023/LeetCode/MergeSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_22_2023/LeetCode/Reverse_Words_In_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_22_2023/LeetCode/Reverse_Words_In_String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_22_2023/LeetCode/Roman_To_Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_22_2023/LeetCode/Roman_To_Integer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_23_2023/LeetCode/Remove_Duplicate_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/LeetCode/Remove_Duplicate_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_23_2023/LeetCode/Remove_Duplicates_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/LeetCode/Remove_Duplicates_I.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_23_2023/LeetCode/Three_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/LeetCode/Three_Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_23_2023/LeetCode/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/LeetCode/ValidPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_23_2023/LeetCode/ZigZag_Conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/LeetCode/ZigZag_Conversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_26_2023/SubSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_26_2023/SubSets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_27_2023/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_27_2023/Trie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_28_2023/CombinationSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_28_2023/CombinationSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_28_2023/WordBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_28_2023/WordBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_29_2023/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_29_2023/ValidPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Date_09_30_2023/Pattern_132.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M09_September_2023/Date_09_30_2023/Pattern_132.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/October_2023/Date_01/Three_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M10_October_2023/Date_01/Three_Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/October_2023/Date_01/Two_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M10_October_2023/Date_01/Two_Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/October_2023/Date_01/Valid_Sudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M10_October_2023/Date_01/Valid_Sudoku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Year_2023/M10_October_2023/Date_02/FindMinimumInRotatedSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LEETCODE/Year_2023/M10_October_2023/Date_02/FindMinimumInRotatedSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Year_2023/M10_October_2023/Date_02/FindMinimumInRotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M10_October_2023/Date_02/FindMinimumInRotatedSortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -441,21 +37,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/COURSERA/hello&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/snake/Snake_Game-master"
   }
-}</component>
-  <component name="RunManager" selected="Application.FindMinimumInRotatedSortedArray">
+}]]></component>
+  <component name="RunManager" selected="Application.Prime_Number">
+    <configuration name="BurningTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year_2023.M10_October_2023.Date_03.BurningTree" />
+      <module name="LEETCODE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Year_2023.M10_October_2023.Date_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindMinimumInRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Year_2023.M10_October_2023.Date_02.FindMinimumInRotatedSortedArray" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Year_2023.M10_October_2023.Date_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prime_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year_2023.M10_October_2023.Date_03.Prime_Number" />
+      <module name="LEETCODE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Year_2023.M10_October_2023.Date_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -489,39 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Valid_Sudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year_2023.M10_October_2023.Date_01.Valid_Sudoku" />
-      <module name="LEETCODE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Year_2023.M10_October_2023.Date_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year_2023.M09_September_2023.Date_09_28_2023.WordBreak" />
-      <module name="LEETCODE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Year_2023.M09_September_2023.Date_09_28_2023.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prime_Number" />
+        <item itemvalue="Application.BurningTree" />
         <item itemvalue="Application.FindMinimumInRotatedSortedArray" />
         <item itemvalue="Application.Search_2D_Matrix" />
         <item itemvalue="Application.Tries" />
-        <item itemvalue="Application.WordBreak" />
-        <item itemvalue="Application.Valid_Sudoku" />
       </list>
     </recent_temporary>
   </component>
