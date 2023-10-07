@@ -13,30 +13,30 @@ public class ValidParentheses {
 
         Stack<Character> staack=new Stack<>();
 
-        for (int i = 0; i < s.length(); i++) {
-            char currChar=s.charAt(i);
-            if("}])".contains(String.valueOf(currChar))){
-                switch (currChar){
-                    char prev= staack.pop();
-                    case '}': if(prev!=currChar){
-                                 return false;
-                             }
-                             break;
-                    case ']':prev=staack.pop();
-                             if(prev!=currChar){
-                             return false;
-                             }
-                             break;
-                    case ')':prev=staack.pop();
-                             if(prev!=currChar){
-                             return false;
-                             }
-                        break;
-                }
-            }else{
-                staack.push(currChar);
-            }
-        }
+//        for (int i = 0; i < s.length(); i++) {
+//            char currChar=s.charAt(i);
+//            if("}])".contains(String.valueOf(currChar))){
+//                switch (currChar){
+//                    char prev= staack.pop();
+//                    case '}': if(prev!=currChar){
+//                                 return false;
+//                             }
+//                             break;
+//                    case ']':prev=staack.pop();
+//                             if(prev!=currChar){
+//                             return false;
+//                             }
+//                             break;
+//                    case ')':prev=staack.pop();
+//                             if(prev!=currChar){
+//                             return false;
+//                             }
+//                        break;
+//                }
+//            }else{
+//                staack.push(currChar);
+//            }
+//        }
         return staack.isEmpty();
     }
 }
