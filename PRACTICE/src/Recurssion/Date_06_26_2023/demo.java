@@ -2,11 +2,7 @@ package Recurssion.Date_06_26_2023;
 //print form 100 to 1
 public class demo {
     public static void main(String[] args) {
-        System.out.println(logpowered(2,10));
-    }
-
-    private static boolean logpowered(int num, int log) {
-        int logged=powered(2,)
+        System.out.println();
     }
 
     private static int powered(int base, int exponent) {
