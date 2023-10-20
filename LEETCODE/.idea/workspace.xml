@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc7c1c7f-a759-4b85-9654-df9412a44eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Year_2023/M10_October_2023/Date_17/Bulbs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year_2023/M10_October_2023/Date_17/highestProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="bc7c1c7f-a759-4b85-9654-df9412a44eda" name="Changes" comment="All the problems practiced on 17th october 2023">
+      <change afterPath="$PROJECT_DIR$/src/Year_2023/M10_October_2023/Date_18/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year_2023/M10_October_2023/Date_18/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,28 +38,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/JAVA/LEETCODE/src/Year_2023/M10_October_2023"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/JAVA/LEETCODE/src/Year_2023/M10_October_2023&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\JAVA\LEETCODE\src\Year_2023\M10_October_2023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.highestProduct">
-    <configuration name="Isomorphic_Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year_2023.M10_October_2023.Date_04.Isomorphic_Strings" />
+  <component name="RunManager" selected="Application.Prime">
+    <configuration name="Climbing_Stairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year_2023.M10_October_2023.Date_18.Climbing_Stairs" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year_2023.M10_October_2023.Date_04.*" />
+          <option name="PATTERN" value="Year_2023.M10_October_2023.Date_18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Min_No_Of_Pages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year_2023.M10_October_2023.Date_12.Min_No_Of_Pages" />
+    <configuration name="LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year_2023.M10_October_2023.Date_17.LongestPalindrome" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year_2023.M10_October_2023.Date_12.*" />
+          <option name="PATTERN" value="Year_2023.M10_October_2023.Date_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Spiral_Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year_2023.M10_October_2023.Date_07.Spiral_Matrix" />
+    <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year_2023.M10_October_2023.Date_18.Prime" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year_2023.M10_October_2023.Date_07.*" />
+          <option name="PATTERN" value="Year_2023.M10_October_2023.Date_18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="valid_Sudoko" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year_2023.M10_October_2023.Date_07.valid_Sudoko" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year_2023.M10_October_2023.Date_18.main" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Year_2023.M10_October_2023.Date_07.*" />
+          <option name="PATTERN" value="Year_2023.M10_October_2023.Date_18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prime" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Climbing_Stairs" />
+        <item itemvalue="Application.LongestPalindrome" />
         <item itemvalue="Application.highestProduct" />
-        <item itemvalue="Application.Min_No_Of_Pages" />
-        <item itemvalue="Application.Spiral_Matrix" />
-        <item itemvalue="Application.valid_Sudoko" />
-        <item itemvalue="Application.Isomorphic_Strings" />
       </list>
     </recent_temporary>
   </component>
@@ -139,6 +138,15 @@
       <option name="presentableId" value="Default" />
       <updated>1674104679010</updated>
     </task>
+    <task id="LOCAL-00001" summary="All the problems practiced on 17th october 2023">
+      <option name="closed" value="true" />
+      <created>1697565700861</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697565700861</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +159,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All the problems practiced on 17th october 2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the problems practiced on 17th october 2023" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
