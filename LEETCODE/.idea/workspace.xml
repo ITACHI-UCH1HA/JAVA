@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc7c1c7f-a759-4b85-9654-df9412a44eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Year_2023/M10_October_2023/Date_21/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year_2023/M10_October_2023/Date_21/combinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year_2023/M10_October_2023/Date_22/Permutations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +53,26 @@
       <recent name="E:\JAVA\LEETCODE\src\Year_2023\M10_October_2023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Subsets">
+  <component name="RunManager" selected="Application.Permutations">
     <configuration name="Min_No_Of_Pages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Year_2023.M10_October_2023.Date_12.Min_No_Of_Pages" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Year_2023.M10_October_2023.Date_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year_2023.M10_October_2023.Date_22.Permutations" />
+      <module name="LEETCODE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Year_2023.M10_October_2023.Date_22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,26 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="valid_Sudoko" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year_2023.M10_October_2023.Date_07.valid_Sudoko" />
-      <module name="LEETCODE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Year_2023.M10_October_2023.Date_07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Permutations" />
         <item itemvalue="Application.Subsets" />
         <item itemvalue="Application.highestProduct" />
         <item itemvalue="Application.Min_No_Of_Pages" />
         <item itemvalue="Application.Spiral_Matrix" />
-        <item itemvalue="Application.valid_Sudoko" />
       </list>
     </recent_temporary>
   </component>
