@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc7c1c7f-a759-4b85-9654-df9412a44eda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Year_2023/M11_November_2023/CombinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year_2023/M11_November_2023/Subsets_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Year_2023/M11_November_2023/permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year_2023/M11_November_2023/Date_02/BestTimeToBuyAndSell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Year_2023/M11_November_2023/Date_02/FirstNegativeOccurence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/out/production/PRACTICE/sorting/selection_sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/out/production/PRACTICE/sorting/selection_sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICE/src/sorting/selection_sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PRACTICE/src/sorting/selection_sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LEETCODE/Year_2023/M11_November_2023/CombinationSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Year_2023/M11_November_2023/Date_01/permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Year_2023/M11_November_2023/Date_01/permutations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +55,39 @@
       <recent name="E:\JAVA\LEETCODE\src\Year_2023\M10_October_2023" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Year_2023.M11_November_2023.Date_01.CombinationSum">
+  <component name="RunManager" selected="Application.FirstNegativeOccurence">
+    <configuration name="BestTimeToBuyAndSell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year_2023.M11_November_2023.Date_02.BestTimeToBuyAndSell" />
+      <module name="LEETCODE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Year_2023.M11_November_2023.Date_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Year_2023.M10_October_2023.Date_30.CombinationSum" />
       <module name="LEETCODE" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Year_2023.M10_October_2023.Date_30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstNegativeOccurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year_2023.M11_November_2023.Date_02.FirstNegativeOccurence" />
+      <module name="LEETCODE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Year_2023.M11_November_2023.Date_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,19 +108,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year_2023.M10_October_2023.Date_21.Subsets" />
-      <module name="LEETCODE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Year_2023.M10_October_2023.Date_21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Year_2023.M11_November_2023.Date_01.CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Year_2023.M11_November_2023.Date_01.CombinationSum" />
       <module name="LEETCODE" />
@@ -109,26 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="highestProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Year_2023.M10_October_2023.Date_17.highestProduct" />
-      <module name="LEETCODE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Year_2023.M10_October_2023.Date_17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstNegativeOccurence" />
+        <item itemvalue="Application.BestTimeToBuyAndSell" />
         <item itemvalue="Application.Year_2023.M11_November_2023.Date_01.CombinationSum" />
         <item itemvalue="Application.CombinationSum" />
         <item itemvalue="Application.Permutations" />
-        <item itemvalue="Application.Subsets" />
-        <item itemvalue="Application.highestProduct" />
       </list>
     </recent_temporary>
   </component>
